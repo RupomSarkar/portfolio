@@ -18,6 +18,8 @@ I specialize in HTML, CSS, JavaScript, UI/UX, Adobe Experience Manager (AEM), an
 2. **MemoRealm Game** - An engaging memory enhancement game.
 3. **VoyageVista** - A travel blog showcasing beautiful destinations.
 4. **Culinary Crest** - A website dedicated to food lovers and culinary adventures.
+5. **Grillime** - A photographer's portfolio website.
+6. **Drum-Kit** - an interactive drum kit built using HTML, CSS, and JavaScript.
 
 Explore each project for more details on my role and the technologies used.
 
